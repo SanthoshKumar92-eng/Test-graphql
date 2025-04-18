@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GraphQL-ApolloClient-Template
 
 ## Youtube Tutorial
@@ -15,3 +16,6 @@ BackEnd:
 - ExpressJS
 - GraphQL
 - Express-GraphQL
+=======
+# Test-graphql
+>>>>>>> 1133ed3510dee9fc909839daa11098813035be97
